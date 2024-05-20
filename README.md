@@ -2,7 +2,7 @@
 <!--
 [![ss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ss-shuang123)](https://github.com/Ss-shuang123/github-readme-stats)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ss-shuang123&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ss-shuang123)
 
 
 <!--
