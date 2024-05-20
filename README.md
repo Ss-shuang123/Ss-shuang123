@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Keep learning 👋
+[![ss's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Ss-shuang123/github-readme-stats)
 <!--
 **Ss-shuang123/Ss-shuang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
